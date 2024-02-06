@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Project study project
+This is the introductory Odin Project repo in which I will be storing my code as I go through and practice my web development skill set. This will also serve as my first public personal project on my GitHub as my primary project is monetized. Currently, this content is simply lifted from allrecipes.com and they retain all rights to the content since this is merely a learning endeavor.
